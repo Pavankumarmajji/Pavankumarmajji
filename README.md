@@ -15,10 +15,10 @@
   <a href="mailto:pavankumarmajji12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/majjipavankumar">
+  <a href="https://www.linkedin.com/in/pavankumarmajji">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/majjipavankumar">
+  <a href="https://github.com/Pavankumarmajji">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -101,7 +101,7 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
           <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="200px">
         </a>
         <p>
-          <a href="https://github.com/majjipavankumar/portfolio" target="_blank">
+          <a href="https://github.com/Pavankumarmajji/portfolio" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
           <a href="http://majjipavankumar.lovable.app/" target="_blank">
@@ -121,7 +121,7 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
 </h3>
       <div align="center">
     <p>
-          <a href="https://github.com/majjipavankumar/hand_mouse_controller" target="_blank">
+          <a href="https://github.com/Pavankumarmajji/hand_mouse_controller" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -141,7 +141,7 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
       <div align="center">
         <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/majjipavankumar/SURVEY_MAKER
+          <a href="https://github.com/Pavankumarmajji/SURVEY_MAKER
 " target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
@@ -160,7 +160,7 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
       <div align="center">
         <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200px">
         <p>
-          <a href="https://github.com/majjipavankumar/secure-file-sharing-using-BLOCKCHAIN-and-IPFS" target="_blank">
+          <a href="https://github.com/Pavankumarmajji/secure-file-sharing-using-BLOCKCHAIN-and-IPFS" target="_blank">
             <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
           </a>
         </p>
@@ -292,10 +292,10 @@ I'm a passionate **Full Stack Developer** with expertise in building modern web 
   <a href="mailto:majjipavankumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/majjipavankumar">
+  <a href="https://www.linkedin.com/in/pavankumarmajji">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/majjipavankumar">
+  <a href="https://github.com/Pavankumarmajji">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
