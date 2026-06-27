@@ -33,12 +33,12 @@
 
 I'm a passionate **Full Stack Developer** with expertise in building modern web applications.
 
-🔭 I'm currently working on: **My Portfolio Website** ([majjipavankumar.lovable.app](https://pavankumarmajji.vercel.app/))
+🔭 I'm currently working on: **My Portfolio Website** ([https://pavankumarmajji.vercel.app/](https://pavankumarmajji.vercel.app/))
 
 🌱 I'm currently learning: **Advanced React, Cloud Computing, and DevOps**
 
 
-💬 Ask me about: **caches=c,c++ Python, Web Development**
+💬 Ask me about: **caches=c,c++ Python, Web Development,sql**
 
 📫 How to reach me: **pavankumarmajji12@gmail.com**
 
