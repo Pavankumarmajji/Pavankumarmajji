@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="http://majjipavankumar.lovable.app/">
+  <a href="https://pavankumarmajji.vercel.app//">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
   <a href="mailto:pavankumarmajji12@gmail.com">
