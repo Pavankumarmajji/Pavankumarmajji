@@ -33,7 +33,7 @@
 
 I'm a passionate **Full Stack Developer** with expertise in building modern web applications.
 
-🔭 I'm currently working on: **My Portfolio Website** ([majjipavankumar.lovable.app](http://majjipavankumar.lovable.app))
+🔭 I'm currently working on: **My Portfolio Website** ([majjipavankumar.lovable.app](https://pavankumarmajji.vercel.app/))
 
 🌱 I'm currently learning: **Advanced React, Cloud Computing, and DevOps**
 
